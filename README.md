@@ -1,5 +1,5 @@
 # GraphTraversalAlgorithms
-This is a collections of algorithms for analysing graphs. 
+This is a collections of algorithms for analysing graphs, with a description and runtime provided in the analysis. 
 
 ## getShortestPath
 The method used to find the shortest path was Dijkstra’s algorithm implemented for a directed unweighted graph. This works by finding the unvisited adjacent nodes which are at a minimum distance from the start point and working through the graph until a minimum path is found to the finish point. The number of links in the path is returned.
